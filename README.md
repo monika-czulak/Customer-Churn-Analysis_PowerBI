@@ -38,3 +38,19 @@ The goal of this case study is to investigate a dataset from an example telecom 
 - Customers who are making service calls are more likely to churn. Currently the average number of service calls per customer is 0,92.
 
 ## Recommendations
+- Prioritize retention efforts towards senior customers, despite their smaller population, due to their higher churn rate. Implement targeted loyalty programs or discounts to incentivize their continued loyalty.
+- Focus on customers aged 30-60, the majority of Databel's customer base, by offering personalized deals and tailored customer service experiences.
+- Address the main churn reason related to "Competitor" by reviewing and potentially adjusting pricing strategies and device offers to remain competitive in the market.
+- Train support personnel to be more empathetic and attentive to customer needs, reducing dissatisfaction and churn related to support interactions.
+- Encourage customers with month-to-month plans to switch to longer-term contracts by offering incentives such as discounted rates or free device upgrades.
+- Promote group plans with discounts for households to capitalize on the lower churn rates observed in this segment.
+- Review data plans to ensure they align with customers' actual usage patterns. Consider offering tiered data plans or personalized data recommendations to better match customers' needs.
+- Educate customers on the benefits of their data plans and encourage upgrades or downgrades as necessary to reduce churn among customers with unlimited plans but low data usage.
+- Enhance the overall customer experience to increase loyalty, particularly among long-term customers. Offer exclusive perks, rewards, or personalized communications to show appreciation for their loyalty.
+- Proactively reach out to customers who own international plans but don't make international calls to understand their needs and potentially offer alternative solutions or incentives to retain them.
+- Implement proactive customer service strategies to address issues before they escalate, reducing the likelihood of churn among customers who make service calls.
+- Analyze service call data to identify recurring issues or pain points and take proactive measures to resolve them.
+- Continuously monitor churn trends and customer feedback to identify emerging issues and opportunities for improvement.
+
+## Summary
+Definitely there is an area for improvement for Databel in terms of customer churn. By considering the above findings and recommendations Databel should be able to improve on their services, leading to increased overall customer satisfaction and loyalty.
