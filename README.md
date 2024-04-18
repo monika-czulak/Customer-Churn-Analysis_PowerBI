@@ -28,5 +28,13 @@ The goal of this case study is to investigate a dataset from an example telecom 
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/fac5f0e7-f31c-41c4-a976-63481c617e82)
 
 ## Findings
+- Avg churn rate of 26.86%, above avg churn rate for senior (60+) customers. However, senior customers are the smallest population of customers. Majority of customers are between 30-60 years old.
+- The main churn reason related to category "Competitor", which means that the customers are looking for better offers in terms of devices or pricing. In top 3 reasons there is also an attitude of support person, with 11.3% of unhappy customers.
+- For the contract types, the majority of customers have month-to-month plans (51%), but in this group the biggest churn is observed vast above the average (45% for male and 47% for female customers). 
+- Company offers group plans with discounts for customers from the same household. In the group of 2 or more customers the churn is significantly lower (up to 8%), while for the individual plans the churn is almost 33%.
+- Higher churn observed for customers who consume less than 5 GB of data but own an unlimited data plan.
+- Long term customers are more loyal than the ones with short account length. General churn trend is decreasing over time.
+- The sky-high churn is among users who own international plan but don't make international calls (71%).
+- Customers who are making service calls are more likely to churn. Currently the average number of service calls per customer is 0,92.
 
-
+## Recommendations
