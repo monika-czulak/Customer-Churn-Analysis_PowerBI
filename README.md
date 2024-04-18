@@ -1,4 +1,6 @@
 # Customer-Churn-Analysis_PowerBI
+![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/b660f9f5-209d-4c76-940a-b397865d822e)
+
 ## Goal
 The goal of this case study is to investigate a dataset from an example telecom company called Databel and analyze their churn rates. The stakeholders need to understand why customers are churning at the rate they are, and how to reduce churn. I'll start with an exploratory data analysis to gain some general insights about churn rate for different customer location, age, contract plans, and other factors. Then, based on the findings, I'll share recommendations for the company to reduce the churn. Finally, I'll create dashboard-style pages and arrange them into stories, so that the results can be shared with stakeholders. The full analysis and visualization is made in PowerBI Desktop, with a creation of additional measures and calculated columns to support the analysis.
 ## EDA
