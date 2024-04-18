@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis_PowerBI
 ## Goal
-The goal of this case study is to investigate a dataset from an example telecom company called Databel and analyze their churn rates. The stakeholders need to understand why customers are churning at the rate they are, and how to reduce churn. I'll start with an exploratory data analysis to gain some general insights about churn rate for different customer location, age, contract plans, and other factors. Then, based on the findings, I'll answer the questions why the customers are leaving and what the company can do to reduce churn rate. Finally, I'll create dashboard-style pages and arrange them into stories, so that the results can be shared with stakeholders. The full analysis and visualization is made in PowerBI Desktop, with a creation of additional measures and calculated columns to support the analysis.
+The goal of this case study is to investigate a dataset from an example telecom company called Databel and analyze their churn rates. The stakeholders need to understand why customers are churning at the rate they are, and how to reduce churn. I'll start with an exploratory data analysis to gain some general insights about churn rate for different customer location, age, contract plans, and other factors. Then, based on the findings, I'll share recommendations for the company to reduce the churn. Finally, I'll create dashboard-style pages and arrange them into stories, so that the results can be shared with stakeholders. The full analysis and visualization is made in PowerBI Desktop, with a creation of additional measures and calculated columns to support the analysis.
 ## EDA
 - Number of customers, churned customers and churn rate <br>
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/f482b1d1-514f-41c8-b1d8-621a114cd306)
@@ -24,7 +24,9 @@ The goal of this case study is to investigate a dataset from an example telecom 
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/16c8d6a4-1fe1-4cdf-b657-0a3a9ac02893)
 - Churn rate over time </br>
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/efc8f727-e318-4e2a-88dc-411e2965e389)
- 
+- Service calls vs. State and churn label </br>
+![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/fac5f0e7-f31c-41c4-a976-63481c617e82)
 
+## Findings
 
 
