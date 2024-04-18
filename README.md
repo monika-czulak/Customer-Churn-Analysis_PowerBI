@@ -6,3 +6,9 @@ The goal of this case study is to investigate a dataset from an example telecom 
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/f482b1d1-514f-41c8-b1d8-621a114cd306)
 - Churn reasons </br>
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/6d51f0f4-00cf-4137-ba06-b3aea2d9b14c)
+- Churn rate by state </br>
+![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/db3238c8-10fc-4f35-af13-1494883cb787)
+- Churn patterns in different age groups </br>
+![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/b6897f9e-d2d7-48aa-8b8a-73dccc57a63e)
+![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/3be6261f-29ca-47dc-9698-b3fffa2f2321)
+
