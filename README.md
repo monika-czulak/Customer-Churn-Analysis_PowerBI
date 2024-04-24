@@ -9,7 +9,7 @@ The goal of this analysis is to investigate a dataset from a fictional telecom c
 - Churn reasons </br>
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/6d51f0f4-00cf-4137-ba06-b3aea2d9b14c)
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/027bf9e2-1ee2-44e7-9adc-649a0bfe05d9)
-- Customer location </br>
+- Churned customers location </br>
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/db3238c8-10fc-4f35-af13-1494883cb787)
 - Demographics </br>
 ![image](https://github.com/monika-czulak/Customer-Churn-Analysis_PowerBI/assets/109820128/b6897f9e-d2d7-48aa-8b8a-73dccc57a63e)
